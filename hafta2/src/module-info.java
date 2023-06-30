@@ -1,0 +1,2 @@
+module hafta2 {
+}

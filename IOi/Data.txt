@@ -1,0 +1,2 @@
+Kotlin, Java sanal makinesini kullanır.
+Java Sanal Makinası
